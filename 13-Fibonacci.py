@@ -6,5 +6,5 @@ def fibbo():
       a.append(a[i] + a[i+1])
     return a
 
-c = int(input('How many fibbonaci number program should display: '))
+c = int(input('How many fibbonaci numbers program should display: '))
 print(fibbo())
